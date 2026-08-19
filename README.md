@@ -1,7 +1,5 @@
 # ArenaHub
 
-Sports arena booking platform — customers search/book courts and rent equipment, arena owners manage listings, admins verify and moderate.
-
 ## Run locally
 
 ```bash
