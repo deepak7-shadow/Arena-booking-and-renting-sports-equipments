@@ -23,4 +23,4 @@ npm run dev
 
 - Routing and role-gating live in `App.jsx` / `ProtectedRoute.jsx`.
 - Booking uses the Razorpay Checkout script (loaded in `index.html`) — needs real test keys in the backend `.env` to actually open a payment sheet.
-- The owner dashboard is also where courts get their bookable slots (`Open a booking slot` form) — a newly created court has none by default.
+- The owner dashboard is also where courts get their bookable slots (`Open a booking slot` form)  — a newly created court has none by default.
