@@ -20,4 +20,4 @@ See `backend/README.md` and `frontend/README.md` for details on each side.
 
 - **Backend**: complete against the Phase 3 spec — all 7 collections have full CRUD, plus admin user-management/reports.
 - **Frontend**: full customer, owner, and admin flows built and wired to the API. Booking end-to-end via Razorpay test checkout.
-- **Not built**: the AI service (recommendations, cheapest-slot, crowd prediction, chatbot) and image upload wiring.
+- **Not built**: the AI service (recommendations, cheapest-slot, crowd prediction) and image upload wiring.
