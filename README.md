@@ -1,4 +1,4 @@
-# ArenaHub
+# ArenaHub Club
 
 ## Run locally
 
